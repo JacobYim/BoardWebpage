@@ -1,6 +1,9 @@
 first, download tomcat from "https://tomcat.apache.org/download-80.cgi".
+
 second, unzip and place tomacat folder at any location
-open terminal, and go to tomcat/bin directory
+
+next, open terminal, and go to tomcat/bin directory
+
 chmod +x *.sh
 
 start tomcat with "./startup.sh"
